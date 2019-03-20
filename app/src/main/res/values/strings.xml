@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NewFirstPage</string>
+    <string name="rate_location">Rate Location</string>
+    <string name="emergency_numbers">Emergency Numbers</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="complaint_box">Complaint Box</string>
+    <string name="blogs">Blogs</string>
+    <string name="todo">TODO</string>
+    <string name="tracking_enabled_notif">Tracking is currently enabled. Tap to cancel.</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+</resources>
